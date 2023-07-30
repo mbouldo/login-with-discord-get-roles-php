@@ -1,6 +1,6 @@
 <?php
 
-$discord_url = "{REDIRECT_URL_LINK_FROM_DASHBOARD}";
+$discord_url = "YOUR_DISCORD_OAUTH_URL";
 header("Location: $discord_url");
 exit();
 
