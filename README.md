@@ -3,8 +3,8 @@ Get roles when you login with discord of the user and redirect them to a secure 
 
 # video guide:
 
-[[https://youtu.be/aT3rPC2SP58]]
+https://youtu.be/aT3rPC2SP58
 
 # written guide with code snippets:
 
-[[https://cindr.org/how-to-get-a-discord-users-server-roles-using-php-and-redirect-with-simple-permissions/]]
+https://cindr.org/how-to-get-a-discord-users-server-roles-using-php-and-redirect-with-simple-permissions/
